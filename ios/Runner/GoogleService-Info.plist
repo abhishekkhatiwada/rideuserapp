@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>580602368543-t79kkef7n0osu9jsg4g19spanfo71vnd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.580602368543-t79kkef7n0osu9jsg4g19spanfo71vnd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-gX6XNIJVk7ycv2U0Gl746X3Jv76SlVA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>580602368543</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.parkwell.customer</string>
+	<key>PROJECT_ID</key>
+	<string>parkwell-ef505</string>
+	<key>STORAGE_BUCKET</key>
+	<string>parkwell-ef505.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:580602368543:ios:ca8f3008e6b2d39b3e7b2a</string>
+	<key>DATABASE_URL</key>
+	<string>https://parkwell-ef505-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
